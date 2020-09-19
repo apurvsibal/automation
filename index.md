@@ -1,6 +1,6 @@
 ## automation
 
-## Questions
+## Click Ctl or Cmd + F and search for keywords
 
 ### are automation rules retroactive
 ### are automation engineers in demand
